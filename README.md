@@ -32,6 +32,6 @@ I'm majoring Public Administration and Software Engineering at SKKU.
 
 ## 📌 Overview 📌
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SngJuni&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SngJuni&layout=compact&theme=tokyonight&hide=html,TeX)
 
 </div>
