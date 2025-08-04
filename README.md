@@ -1,37 +1,59 @@
-<div align='center'>
+# 👋 Hi, I'm SeungJun Hwang!
 
-
-## Welcome! 
-I'm SeungJun Hwang.
-<br/>
-I'm majoring Public Administration and Software Engineering at SKKU.
-
-## 💻 Stacks 💻
-
-💡 used as the main 💡
-<br/>
-<img alt="SpringBoot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
-<br/>
-<img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-
-
-💡 used at least once 💡
-<br/>
-<img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-<img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/> 
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<br/>
-<img alt="Html" src="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-
-
-
-## 📌 Overview 📌
-
+## 📌 Overview
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SngJuni&layout=compact&theme=tokyonight&hide=html,TeX)
 
-</div>
+
+
+## 💻 Tech Stack
+
+### ⚙️ Languages & Frameworks
+
+![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
+### 🛢️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+
+## 📊 GitHub Stats
+
+![SngJuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=SngJuni&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+
+## 🏆 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SngJuni&theme=radical)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
